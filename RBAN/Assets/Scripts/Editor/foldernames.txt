@@ -1,0 +1,26 @@
+#Use a folder structure like this example to achieve nested folders.
+#Any line with a # at the start of it will not be read by the script.
+#Tab a line to nest it inside the folder above it.
+#Audio
+#	SFX
+#		Explosions
+#	Music
+#Scripts
+#	Editor
+#Scenes
+3rdParty
+Art
+	FX
+	Characters
+	Environment
+Audio
+	Music
+	SFX
+	Voiceover
+Prefabs
+Resources
+Scripts
+	Editor
+	Managers
+	Messages
+_Scenes
